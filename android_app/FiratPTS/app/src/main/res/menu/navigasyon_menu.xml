@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/dashboard_menu"
+        android:title="Ana Sayfa"
+        android:icon="@drawable/ic_menu_home" />
+
+    <item
+        android:id="@+id/kayitlar_menu"
+        android:title="Geçmiş"
+        android:icon="@drawable/ic_menu_history" />
+
+    <item
+        android:id="@+id/arac_ekleme_menu"
+        android:title="Araç Ekle"
+        android:icon="@drawable/ic_menu_add" />
+
+    <item
+        android:id="@+id/duzenle_menu"
+        android:title="Yönetim"
+        android:icon="@drawable/ic_menu_admin" />
+
+</menu>
